@@ -9,3 +9,7 @@ preview: /assets/postpreview.png
 ![Picture 1](/assets/fullsize.png)
 
 Put down info here, either in bullets or paragraphs.
+
+```lua
+print("here is a code snippet");
+```
