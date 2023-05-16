@@ -4,8 +4,12 @@
 @charset "utf-8";
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
+$prestige-color: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+
+// Colors from https://flatuicolors.com/palette/cn
+
+$prestige-color: #2f3542;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

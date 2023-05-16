@@ -52,15 +52,15 @@
 }
 
 .site-footer-home {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $prestige-color;
     margin: 1rem 0;
     padding: 1rem 0;
 	font-size: 0.75em;
 }
 
 .site-info {
-    border-top: 1px solid $grey-color-light;
-	border-bottom: 1px solid $grey-color-light;
+    border-top: 1px solid $prestige-color;
+	border-bottom: 1px solid $prestige-color;
     margin: 1rem 0;
     padding: 1rem 0;
 }
@@ -80,6 +80,6 @@
     border: 1px solid $color-initial;
     
     &:hover {
-        border: 1px solid $grey-color-light;
+        border: 1px solid $prestige-color;
     }
 }
