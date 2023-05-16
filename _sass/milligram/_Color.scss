@@ -10,11 +10,11 @@
 // Color
 // ––––––––––––––––––––––––––––––––––––––––––––––––––
 
-// Anti-flash white
-$color-initial: #2f3542!default;
-$color-primary: #2f3542 !default;
-$color-secondary: #606c76 !default;
-// Prestige grey
-$color-tertiary: #2f3542 !default;
-$color-quaternary: #2f3542 !default;
-$color-quinary: #2f3542 !default;
+$color-anti-flash-white: #f1f2f6 !default;
+
+$color-initial: $color-anti-flash-white !default;
+$color-primary: $color-anti-flash-white !default;
+$color-secondary: $color-anti-flash-white !default;
+$color-tertiary: $color-anti-flash-white !default;
+$color-quaternary: $color-anti-flash-white !default;
+$color-quinary: $color-anti-flash-white !default;
