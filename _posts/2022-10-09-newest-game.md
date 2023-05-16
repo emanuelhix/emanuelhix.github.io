@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Newest Game"
+title:  "Psudar's Pizzaplex"
 summary: "Lead Programmer and Designer"
-date:   2022-10-09 15:39:40
+date:   2023-05-16 02:58:00
 preview: /assets/postpreview.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](assets\psudar_avatar.png)
 
 Here's some impressive stuff I did:
 
