@@ -79,7 +79,7 @@ input[type='submit'] {
 
 		&:focus,
 		&:hover {
-			background-color: transparent;
+			-color: transparent;
 			border-color: transparent;
 			color: $color-secondary;
 		}
